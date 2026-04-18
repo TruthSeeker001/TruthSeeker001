@@ -90,7 +90,7 @@ what they mean when you look closely enough.
 ![Adobe Express](https://img.shields.io/badge/Adobe%20Express-FF0000?style=flat-square&logo=adobe&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=flat-square&logo=canva&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=black)
-![MongoDB Atlas](https://img.shields.io/badge/MongoDB%20Atlas-47A248?style=flat-square&logo=mongodb&logoColor=white)
+
 
 </div>
 
